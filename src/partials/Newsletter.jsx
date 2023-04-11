@@ -26,7 +26,7 @@ function Newsletter() {
             {/* CTA content */}
             <div className="mb-6 lg:mr-16 lg:mb-0 text-center lg:text-left lg:w-1/2">
               <h3 className="h3 text-white mb-2">Stay in the loop</h3>
-              <p className="text-purple-200 text-lg">Reach us out at info.dotflo@gmail.com</p>
+              <p className="text-purple-200 text-lg"> Contact us info.dotflo@gmail.com</p>
             </div>
 
             {/* CTA form */}

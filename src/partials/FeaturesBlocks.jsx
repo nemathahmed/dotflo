@@ -10,7 +10,7 @@ function FeaturesBlocks() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">The dotflo tool shed
 </h2>
-            <p className="text-xl text-gray-400">The majority of business cannot optimize their data because of the cost: We make this possible.</p>
+            <p className="text-xl text-gray-400">The majority of businesses cannot optimize their data because of the cost: We make this possible.</p>
           </div>
 
           {/* Items */}
@@ -49,7 +49,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Daily write ups</h4>
-              <p className="text-lg text-gray-400 text-center">Users can ask for explanations to graphs, datasets, or predictions to provide meaning behind the insights, driving actionale improvements.</p>
+              <p className="text-lg text-gray-400 text-center">Users can ask for explanations to graphs, datasets, or predictions to provide meaning behind the insights, driving actionable improvements.</p>
             </div>
 
             {/* 4th item */}
