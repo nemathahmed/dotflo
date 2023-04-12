@@ -8,9 +8,9 @@ function FeaturesBlocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">The dotflo tool shed
+            <h2 className="h2 mb-4">The dotflo tool shed.
 </h2>
-            <p className="text-xl text-gray-400">The majority of businesses cannot optimize their data because of the cost: We make this possible.</p>
+            <p className="text-xl text-gray-400">The majority of businesses cannot optimize their data because of the cost: We make it possible.</p>
           </div>
 
           {/* Items */}
@@ -24,7 +24,7 @@ function FeaturesBlocks() {
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
               <h4 className="h4 mb-2">Predictions</h4>
-              <p className="text-lg text-gray-400 text-center">A flexible prediction suite that allows businesses to get a variety of perspectives backed by smart AI. </p>
+              <p className="text-lg text-gray-400 text-center">A flexible prediction suite that allows businesses to gain a variety of perspectives backed by smart AI. </p>
             </div>
 
             {/* 2nd item */}
@@ -49,7 +49,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Daily write ups</h4>
-              <p className="text-lg text-gray-400 text-center">Users can ask for explanations to graphs, datasets, or predictions to provide meaning behind the insights, driving actionable improvements.</p>
+              <p className="text-lg text-gray-400 text-center">Users can ask for explanations to graphs, datasets, or predictions to drive actionable improvements.</p>
             </div>
 
             {/* 4th item */}
@@ -75,7 +75,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">No analyst required</h4>
-              <p className="text-lg text-gray-400 text-center">dotflo is a no code platform, meant as a way for companies to leverage our technology to help existing employees grow within their role.</p>
+              <p className="text-lg text-gray-400 text-center">dotflo is a no code platform guaranteed to help existing to help companies efficiently help their employees grow.</p>
             </div>
 
             {/* 6th item */}
