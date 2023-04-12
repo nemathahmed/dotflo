@@ -45,7 +45,7 @@ function HeroHome() {
               dotflo
             </h1>
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">
-            Affordable AI Driven Analytics Platform For Businesses | Democratizing AI 
+            An Affordable AI Driven Analytics Platform For Businesses | Democratizing AI 
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               {/* <div data-aos="fade-up" data-aos-delay="400">
