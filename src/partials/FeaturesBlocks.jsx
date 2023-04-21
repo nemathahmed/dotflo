@@ -75,7 +75,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">No analyst required</h4>
-              <p className="text-lg text-gray-400 text-center">dotflo is a no code platform guaranteed to help existing to help companies efficiently help their employees grow.</p>
+              <p className="text-lg text-gray-400 text-center">dotflo is a no-code platform that enables companies to easily leverage their data to help existing employees grow within each roles.</p>
             </div>
 
             {/* 6th item */}
